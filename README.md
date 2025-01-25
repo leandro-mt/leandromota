@@ -19,8 +19,8 @@
 - [**Projeto 2**](https://github.com/leandro-mt/chatpythom.git): Chat Online de Mensagem.  
 
 ## 📈 Estatísticas do GitHub  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leandro-mt&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-mt&layout=compact&theme=radical)  
 
 ## 🌐 Como me encontrar  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-moreira-mota-847b54280/)  
