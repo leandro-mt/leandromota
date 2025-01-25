@@ -15,8 +15,8 @@
 
 
 ## 🚀 Projetos em Destaque  
-- [**Projeto 1**](https://github.com/leandro-mt/Automa-o-python.git): Projeto em Python que faz a Autamação de cadastro de novos Produtos no estoque.  
-- [**Projeto 2**](https://github.com/leandro-mt/chatpythom.git): Chat Online de Mensagem.  
+- [**Autamação de cadastro**](https://github.com/leandro-mt/Automa-o-python.git): Projeto em Python que faz a Autamação de cadastro de novos Produtos no estoque.  
+- [**PythonChat**](https://github.com/leandro-mt/chatpythom.git): Chat Online de Mensagem.  
 
 ## 📈 Estatísticas do GitHub  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leandro-mt&show_icons=true&theme=radical)  
